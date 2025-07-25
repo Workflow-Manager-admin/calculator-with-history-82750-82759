@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/calculator-with-history-82750-82759/calculator_frontend"
+}
